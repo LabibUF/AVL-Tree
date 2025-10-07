@@ -1,0 +1,3 @@
+D:/Users/labib/Desktop/clion-p1-main/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/catch2-populate.dir
+D:/Users/labib/Desktop/clion-p1-main/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/edit_cache.dir
+D:/Users/labib/Desktop/clion-p1-main/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/rebuild_cache.dir
